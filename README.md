@@ -1,3 +1,4 @@
+[![Build Status](https://markhenrydelatorre.visualstudio.com/SamplePipeline/_apis/build/status/SamplePipeline-CI)](https://markhenrydelatorre.visualstudio.com/SamplePipeline/_build/latest?definitionId=1)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
